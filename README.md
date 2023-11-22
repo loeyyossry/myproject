@@ -1,2 +1,2 @@
 # myproject
-this is fucken repository 
+this is fucken frist repository 
